@@ -6,4 +6,5 @@ This will be my files and changes as I learn C++ and Unreal.  This will only be 
 
 ## Lecture list
 
-* BT01 intor to GitHub
+* BT01 intro to GitHub
+* BT02 Game Design document
