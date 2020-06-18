@@ -4,6 +4,6 @@ Following the Unreal C++course from Gamedev.TV on Udemy [here](https://www.udemy
 
 This will be my files and changes as I learn C++ and Unreal.  This will only be the course files.  I will add more as I learn HTML as well
 
-##Lecture list
+## Lecture list
 
-* BT01 Game Design document
+* BT01 intor to GitHub
